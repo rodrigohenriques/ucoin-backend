@@ -31,7 +31,7 @@ app.use(function (err, req, res, next) {
 
 var mongoose = require('mongoose');
 
-var mongoDbUri = process.env.MONGODB_URI || "mongodb://heroku_gwnd8m9d:1acaom7sska0s31bflk6id3gma@ds041586.mlab.com:41586/heroku_gwnd8m9d";
+var mongoDbUri = process.env.MONGODB_URI || "mongodb://heroku_fzhwcchp:44jhs6jlqra385h0m2rkp7lc11@ds041486.mlab.com:41486/heroku_fzhwcchp";
 
 mongoose.connect(mongoDbUri);
 
