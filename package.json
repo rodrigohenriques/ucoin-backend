@@ -1,0 +1,19 @@
+{
+  "name": "ucoin-backend",
+  "version": "0.1.0",
+  "description": "Ucoin para backend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigohenriques/ucoin-backend.git"
+  },
+  "author": "rodrigohenriques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigohenriques/ucoin-backend/issues"
+  },
+  "homepage": "https://github.com/rodrigohenriques/ucoin-backend#readme"
+}
