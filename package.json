@@ -4,6 +4,7 @@
   "description": "Ucoin para backend.",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/rodrigohenriques/ucoin-backend/issues"
   },
-  "homepage": "https://github.com/rodrigohenriques/ucoin-backend#readme"
+  "homepage": "https://github.com/rodrigohenriques/ucoin-backend#readme",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "~4.1.11",
+    "node-uuid": "^1.4.7",
+    "request": "^2.75.0"
+  }
 }
